@@ -1,0 +1,3 @@
+There is category in Foursquare called "fun".
+I am going to explore the neighbors in Las Vegas using the "fun" category.
+The profit of these entertainment location might not be easy to evaluate, but since we have their names, we canturn to other websites for further information.

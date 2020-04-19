@@ -1,5 +1,0 @@
-Assume one of my friends wants to open an entertainment business in Las Vegas.
-Then, he might need some advice about "what business to open" and "where to set up the business".
-Las Vegas is a crowded city of both population and business, and there exists a high variation of entertainments arounds the city.
-My friend tries to find the best location to maximize the profit for the choice of business.
-Also, if the profit is hard to evaluate, my friend wants to at least maximize the revenue.
